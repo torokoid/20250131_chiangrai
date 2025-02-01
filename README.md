@@ -156,6 +156,8 @@ p.note { display: none; }
 <a href="20250131_011.JPG" target="_blank"><img src="20250131_011.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250131_012.JPG" target="_blank"><img src="20250131_012.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250131_013.JPG" target="_blank"><img src="20250131_013.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">ここに集まった女性陣全員の共通の祖母姉妹</span></h2>
 <a href="20250131_014.JPG" target="_blank"><img src="20250131_014.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250131_015.JPG" target="_blank"><img src="20250131_015.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250131_016.JPG" target="_blank"><img src="20250131_016.JPG" alt="サンプル画像" width="900" /></a>
