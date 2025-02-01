@@ -139,7 +139,7 @@ p.note { display: none; }
 <h2><span class="yellow">最後に生まれたアヒルはよちよち歩きなので、しばし保護</span></h2>
 <a href="20250131_005.JPG" target="_blank"><img src="20250131_005.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">食欲は旺盛なのでそのうち元気になるでしょう</span></h2>
+<h2><span class="yellow">食欲は旺盛なのでそのうち元気に歩くようになるでしょう</span></h2>
     
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qbiksiGviLY?si=YbLI6lc-PIFBfAIF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>    
     
@@ -165,6 +165,8 @@ p.note { display: none; }
 <h2><span class="yellow">家の裏では青空の下、土地への土盛りが展開中</span></h2>
 <a href="20250131_017.JPG" target="_blank"><img src="20250131_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250131_018.JPG" target="_blank"><img src="20250131_018.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">この空の広さは羨ましいですね〜</span></h2>
 <a href="20250131_019.JPG" target="_blank"><img src="20250131_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250131_020.JPG" target="_blank"><img src="20250131_020.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250131_021.JPG" target="_blank"><img src="20250131_021.JPG" alt="サンプル画像" width="900" /></a>
