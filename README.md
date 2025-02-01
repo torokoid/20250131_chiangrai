@@ -202,7 +202,7 @@ p.note { display: none; }
 <h2><span class="yellow">この季節でも陽射しはきついのでパラソルは必須</span></h2>
 <a href="20250131_038.JPG" target="_blank"><img src="20250131_038.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">重機の運転も汗だく</span></h2>
+<h2><span class="yellow">重機の運転も暑そうでした</span></h2>
 <a href="20250131_039.JPG" target="_blank"><img src="20250131_039.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">奥にお寺がある小径の入り口はこんなに立派に</span></h2>
